@@ -1,3 +1,19 @@
+# Todo List App
+
+This is a simple Todo List app built using React and TypeScript (`.tsx` files). 
+It's designed to be beginner-friendly and a great starting point for anyone learning React with TypeScript.
+
+##
+I am new to **React** and **TypeScript**, and this app is part of my learning journey. If you have any advice, feedback, 
+or suggestions on how I can improve my code, feel free to reach out. I'm open to learning and improving!
+
+## Features
+
+- Add, edit, and remove tasks.
+- Simple, easy-to-use interface.
+- Built with React and TypeScript.
+- Tailwindcss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
